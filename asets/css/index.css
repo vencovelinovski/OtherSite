@@ -1,0 +1,29 @@
+.redbackgroung{
+    background-color: #fa7266;
+    display: flex;
+    align-items: center;
+}
+.txtcolor{
+    color: white;
+
+}
+.btn-light{
+    color: #fa7266!important;
+}
+.conheight{
+    height: 60vh;
+    
+}
+
+.txtsecondsec{
+    color: #fa7266;
+    margin-top: -2em;
+    margin-left: 3em;
+}
+
+.hrstyle{
+    color: #fa7266;
+    width: 3em;
+    border-bottom: 1px solid #fa7266;
+    margin-left: -0.5em;
+}
